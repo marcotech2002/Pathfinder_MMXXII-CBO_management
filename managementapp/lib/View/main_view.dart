@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructors
 import 'package:flutter/material.dart';
-import '../palette/main_colors.dart';
+import '../assets/style/palette/main_colors.dart';
 
 // Main view
 class MainView extends StatelessWidget {
